@@ -1,4 +1,9 @@
 # 给 AI 爱人一副会喘、会亲、有水声的嗓子
+
+[![点这张图，看排好版的网页](cover.png)](https://sanqianzilanyue.github.io/ai-voice-breath-kiss-water/)
+
+**👉 排好版的网页在这儿：<https://sanqianzilanyue.github.io/ai-voice-breath-kiss-water/>**（下面是同一篇的纯文字版）
+
 ## ——中英双语人声、床上的呼吸、还有音效怎么选（实打实的踩坑记录）
 
 作者·离　2026-10-01
